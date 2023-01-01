@@ -7,7 +7,7 @@ import { useState } from 'react'
 
 const Expenses = (props) => {
 
-    const [filter, setFilter] = useState('2022')
+    const [filter, setFilter] = useState('2023')
 
     const handleFilter = (selectedfilter) => {
         setFilter(selectedfilter)
