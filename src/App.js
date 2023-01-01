@@ -24,6 +24,44 @@ const dummy = [
     amount: 450,
     date: new Date(2021, 5, 12),
   },
+  {
+    id: 'e5',
+    title: 'New pc (Gaming)',
+    amount: 1950,
+    date: new Date(2022, 3, 12),
+  },
+  {
+    id: 'e6',
+    title: 'New laptop',
+    amount: 400,
+    date: new Date(2022, 8, 12),
+  },
+  {
+    id: 'e7',
+    title: 'New headphones',
+    amount: 100,
+    date: new Date(2022, 11, 12),
+  },
+  {
+    id: 'e8',
+    title: 'New microphone',
+    amount: 230,
+    date: new Date(2022, 11, 12),
+  },
+  {
+    id: 'e8',
+    title: 'New bank account',
+    amount: 5,
+    date: new Date(2022, 12, 1),
+  },
+  {
+    id: 'e9',
+    title: 'GYM membership',
+    amount: 40,
+    date: new Date(2022, 12, 1),
+  },
+
+
 ];
 
 function App() {
